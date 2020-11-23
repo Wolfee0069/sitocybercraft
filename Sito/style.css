@@ -2,12 +2,6 @@ body{
     font-family: sans-serif;
 }
 
-iframe{
-    position: absolute;
-    left: 0;
-    top: 50px;
-}
-
 nav{
     background-color: #000;
     height: 55px;
@@ -81,3 +75,74 @@ nav ul li li:hover a{
     color: #fff;
 }
 
+.benvenuto{
+    float: left;
+    margin-top: 55px;
+    width: 100%;
+    border-bottom: solid 3px #000;
+
+
+}
+
+.benvenuto h1{
+    margin-left: 37%;
+    margin-right: 63%;
+    width: 37%;
+    text-decoration: underline;
+}
+
+.benvenuto h3{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.skyblock{
+    margin-top: 5px;
+    padding-right: 0px;
+    max-width: 1920px;
+
+
+}
+
+.skyblock h2{
+    text-decoration: underline;
+    margin-left: 30%;
+    margin-right: auto;
+    max-width: 50%;
+
+}
+
+.skyblock p{
+
+}
+
+.skyblock img{
+    border-left: solid 3px #000;
+    max-width: 700px;
+    float: right;
+    margin-top: -2.5%;
+
+}
+
+.opfactions{
+
+}
+
+.opfactions h2{
+    text-decoration: underline;
+    margin-left: 30%;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+.opfactions p{
+
+}
+
+.opfactions img{
+    border-left: solid 3px #000;
+    max-width: 700px;
+    float: right;
+    margin-top: -2.5%;
+
+}
