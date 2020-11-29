@@ -100,8 +100,7 @@ nav ul li li:hover a{
     margin-top: 5px;
     padding-right: 0px;
     max-width: 1920px;
-
-
+    padding-bottom: 27%;
 }
 
 .skyblock h2{
@@ -109,40 +108,60 @@ nav ul li li:hover a{
     margin-left: 30%;
     margin-right: auto;
     max-width: 50%;
-
 }
 
 .skyblock p{
-
 }
 
 .skyblock img{
     border-left: solid 3px #000;
-    max-width: 700px;
+    max-width: 35%;
+    min-width: 300px;
     float: right;
     margin-top: -2.5%;
-
 }
 
 .opfactions{
-
+    border-top: solid 3px #000;
+    padding-bottom: 31%;
 }
 
 .opfactions h2{
+    text-decoration: underline;
+    margin-left: 61%;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+.opfactions p{
+}
+
+.opfactions img{
+    border-right: solid 3px #000;
+    max-width: 35%;
+    min-width: 300px;
+    float: left;
+    margin-top: -2.5%;
+}
+
+.anarchy{
+    border-top: solid 3px #000;
+}
+
+.anarchy h2{
     text-decoration: underline;
     margin-left: 30%;
     margin-right: auto;
     max-width: 50%;
 }
 
-.opfactions p{
-
+.anarchy p{
 }
 
-.opfactions img{
+.anarchy img{
     border-left: solid 3px #000;
-    max-width: 700px;
+    max-width: 35%;
+    min-width: 300px;
     float: right;
     margin-top: -2.5%;
-
 }
